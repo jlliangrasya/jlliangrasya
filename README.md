@@ -8,9 +8,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◉%20Portfolio-jilliangraceburila.netlify.app-0e7490?style=for-the-badge&logo=netlify&logoColor=white)](https://jilliangraceburila.netlify.app/)
-[![Email](https://img.shields.io/badge/◉%20Email-jillianburila%40gmail.com-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jillianburila@gmail.com)
-[![GitHub](https://img.shields.io/badge/◉%20GitHub-jlliangrasya-22d3ee?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jlliangrasya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jilliangraceburila.netlify.app-0e7490?style=for-the-badge&logo=netlify&logoColor=white)](https://jilliangraceburila.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-jillianburila%40gmail.com-f59e0b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jillianburila@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jillian--grace--burila-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jillian-grace-burila)
 
 </div>
 
