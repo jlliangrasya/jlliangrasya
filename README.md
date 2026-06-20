@@ -26,7 +26,7 @@
 >
 > Before the title: won a **national robotics championship**, represented my university in **Vietnam** as the first engineering student ever selected, graduated **Magna Cum Laude**, ran a real business at 19, grew a tutoring client base from **1 → 17 students in 2.5 months** through referrals alone.
 >
-> *I don't build demos. I build things that run.*
+
 
 <br/>
 
